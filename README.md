@@ -1,19 +1,19 @@
 Tree Talk is a platform to explore and discover locally sourced environmental science, creative calls-to-action, and fun ideas for growing a more vibrant community.
 
 # Goals
-Tree Talk addresses three primary motivations:
+Tree Talk supports three primary actions:
 - **Exploration** ("how do I find out more?")
 - **Discovery** ("what's happening around my area?")
 - **Contribution** ("how can I get involved?") 
 
 ### Actions
-These motivations are grouped into three areas, the Tree Talk core actions - **Connect**, **Create**, and **Conserve**:
+These actions are grouped into three contexts - **Connect**, **Create**, and **Conserve**:
 - **Connect** facilitates exploration, discovery, and contribution to locally sourced environmental science and data
 - **Create** facilitates exploration, discovery, and contribution to creative calls-to-action and events
 - **Conserve** facilitates exploration, discovery, and contribution to a library of ways to personally track behavior change and contribute to a more vibrant, verdant community
 
 ### Principles
-We'll design and develop the app following four principles:
+The app will be designed and developed following four principles:
 - **Based** **in** **place**: grounded in physical space and local communities, focused on geospatial awareness
 - **Diverse** **by** **nature**: inspired by nature, designed for inclusion, accessible to everyone
 - **Real**, **simple**: actively meet users where they are, highlight everyday actions 
