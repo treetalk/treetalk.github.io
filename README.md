@@ -1,6 +1,4 @@
-# Tree Talk Live!
-
-Treetalk /live is the most recent version of the Tree Talk web app.
+Tree Talk is a platform to explore and discover locally sourced environmental science, creative calls-to-action, and fun ideas for growing a more vibrant community.
 
 # Goals
 Tree Talk addresses three primary motivations:
