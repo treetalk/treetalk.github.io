@@ -34,4 +34,4 @@ The web app will have four primary views - **Details**, **Map**, **Mosaic**, and
 # Development
 We'll focus app development and tool selection on the modern web and its evolving options, tools, and processes, e.g., a progressive web app built with React+friends and TDD. For mapping, we'll use Mapbox or a similar WebGL-powered tool (ArcGIS Online, Leaflet, OpenLayers) for awesome mobile-friendly map experiences. 
 
-Starting out, **Connect** data will draw primarily from the iNaturalist API and **Create** data will draw primarily from the Meetup API. We'll use Open Street Map for storing relevant spatial data. We'll develop the project in the open here on GitHub using the opensource.guides for best practices.
+Starting out, **Connect** data will draw primarily from the [iNaturalist API](http://www.inaturalist.org/pages/api+reference) and **Create** data will draw primarily from the [Meetup API](https://www.meetup.com/meetup_api/docs/). We'll use Open Street Map for storing relevant spatial data. We'll develop the project in the open here on GitHub using the opensource.guides for best practices.
